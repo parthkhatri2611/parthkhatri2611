@@ -37,7 +37,7 @@
   <a href="mailto:parthkhatri2611@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/YOUR_ID">
+  <a href="https://discord.com/users/parthkhatri2611">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
@@ -47,37 +47,32 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
+</p>
 
 ---
 
 ### 🌐 Web & Backend
-![HTML](https://skillicons.dev/icons?i=html)
-![React](https://skillicons.dev/icons?i=react)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,firebase" />
+</p>
 
 ---
 
 ### 🗄 Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Oracle](https://skillicons.dev/icons?i=postgres)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+<!-- Note: Oracle removed (no proper icon + avoid confusion) -->
 
 ---
 
 ### 🧰 Tools & Platforms
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-![Figma](https://skillicons.dev/icons?i=figma)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,figma" />
+</p>
 
 ---
 
@@ -107,10 +102,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkhatri2611&theme=tokyo-night&hide_border=true"/>
 </p>
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 <p align="center">
-  <b>Build. Break. Learn. Repeat.</b>
+  <b>
+  ⚡ Build. Break. Learn. Repeat.
+  </b>
 </p>
