@@ -1,6 +1,5 @@
-<!-- ====================== HEADER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Parth%20Khatri&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&animation=twinkling"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Parth Khatri</h1>
@@ -67,7 +66,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,figma&perline=5" />
 </p>
 
-<!-- Tech Icons -->
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/>
   <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="60"/>
@@ -77,7 +75,7 @@
 
 ---
 
-# 📊 GitHub Analytics (Real-Time)
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthkhatri2611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
@@ -104,7 +102,6 @@
   </a>
 </p>
 
-<!-- OPTIONAL dynamic cards (add usernames later) -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/parthkhatri2611?theme=dark"/>
 </p>
@@ -128,16 +125,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkhatri2611&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
----
-
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/parthkhatri2611/parthkhatri2611/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
-
+<p align="center">
+  <b>
+    🚀 Build Real Systems | 🧠 Master Problem Solving | ⚡ Optimize for Performance | 🤖 Explore Intelligent Systems | 📈 Think in Scale
+  </b>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00F7FF&height=120&section=footer"/>
